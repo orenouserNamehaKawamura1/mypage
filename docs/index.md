@@ -34,4 +34,6 @@
 ほげ[ふが](https://github.com/)ぴよ
 
 hoge[hoge](./hoge.md)hoge  
-huga[huga](./huga/huga.md)huga
+huga[huga](./huga/huga.md)huga  
+!hoge[hoge](./hoge.png)  
+
