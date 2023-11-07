@@ -1,6 +1,8 @@
 ```mermaid
-flowchart TB
+flowchart LR
+  subgraph 目的
   id[ゆで卵を作る]
+  end
   subgraph 大まかな計画
   id1[卵を買う]
   id2[ゆで卵を作る]
